@@ -1,4 +1,4 @@
-# Find_Room
+# Organize Meeting Rooms
 
 In this project, I have designed a function to help organize multiple meetings during a day. Each
 meeting will have a start time and end time. Each meeting will need to reserve a private conference
